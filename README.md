@@ -8,12 +8,12 @@ To clone this repository to your local machine, follow these steps:
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command:
 
-    bash
+   '''bash
    git clone https://github.com/iAryanbajaj/ShadowFox.git
-    
+    '''
 
 4. After cloning, navigate into the project directory:
 
-    bash
+   '''bash
     cd ShadowFox
-    
+    '''
