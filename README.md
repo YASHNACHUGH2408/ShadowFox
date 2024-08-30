@@ -9,7 +9,7 @@ To clone this repository to your local machine, follow these steps:
 3. Run the following command:
 
    ```bash
-   git clone https://github.com/iAryanbajaj/ShadowFox.git
+   git clone https://github.com/YASHNACHUGH2408/ShadowFox.git
 
 4. After cloning, navigate into the project directory:
 
